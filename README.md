@@ -9,17 +9,23 @@ Introduction
 1. Données : récupération et traitement 
 
   1.1. Import des packages nécessaires 
+  
   1.2. Autour des données 
+  
   1.3. Les données à l'échelle d'un département 
+ 
 
 2. Statistiques descriptives : les logements sont plus énergivores lorsqu'ils sont petits et anciens 
 
   2.1. Exploration des caractéristiques des logements selon leur DPE
+  
   2.2. Visualisation spatiale 
+ 
  
 3. Modélisation 
 
   3.1. Algorithme de prédictions des DPE 
+  
   3.2. Analyse des déterminants de la proportion de passoire thermique par départements à partir d'une régression linéaire
   
 Conclusion 
